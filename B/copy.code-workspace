@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../copy"
+		},
+		{
+			"path": "../../DDPG robot"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
